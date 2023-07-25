@@ -7,5 +7,9 @@
       "schedule:automergeDaily",
       "docker:pinDigests",
       "helpers:pinGitHubActionDigests"
-    ]
+    ],
+    "osvVulnerabilityAlerts": true,
+    "vulnerabilityAlerts": {
+      "enabled": true
+    }
 }
