@@ -4,6 +4,7 @@
       "config:recommended",
       ":disableDependencyDashboard",
       ":automergeStableNonMajor",
+      ":automergeTypes",  
       "schedule:automergeDaily",
       "docker:pinDigests",
       "helpers:pinGitHubActionDigests"
